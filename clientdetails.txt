@@ -1,0 +1,46 @@
+"-Your current residence- Pune
+-Client Name (For Cross varification)- TCL
+-Client Office Location- Pune (Dighi)
+-Work Type -(WFH/ Hybrid/Complete Onsite/ Complte Offshore) - Hybrid
+-Client Working Hours - (8Hrs/ 9hrs/9.5hrs or other)- 9hrs
+-Work Days - 5 days /2nd and 4rth Sat working / All sat working / Other) - 5 days
+-Daily Reporting Time (Indidan)- 9:30 AM
+-Reporting Manager (Client site)- Myyank Fadadu
+-Reporting Manager Phone No-  +912266592109
+-Reporting Manager Email (Client Site) - mayank.fadadu@tatacommunication.com
+-Project Name - IpRevamp
+-Nature of the project (New Project / Product Development//Enhancement of existing project//Maintenance / Support work//Revamp / Migration of the existing system)-Revamp / Migration of the mysql to postgresql
+-Project Technology- Postgresql
+-Project type - (Full stack / Back End/ Front end / Data base) -Data base
+-Any Project Management tool being used ?- no
+-Any timesheet to be filled at client side ? (Apart from NeoSOFT Timesheet- (Yes / No)-no
+-If Yes, at what frequency timesheet is submitted to client ? (Daily/ Weekly/ Byweekly/ Forthnight/ Monthly/Other -Specified/NA)-no
+-Who is the person responsible for approving timesheet ? (Share details)"
+"Three good things which you would like to highlight at current client work
+
+Three problems which you would like to highlight at current client work
+
+Have you undergone Department Level Induction ? (Conduted by Swapnil(HRBP or any DM Sandesh / Neha / Vishal)
+
+Do you know your TL in NeoSOFT ? (Yes/No)-yes
+
+ Team Lead name at NeoSOFT  - --- sagr shelke
+ Are you aware about Delivery Managers in the department ? (Yes/No) no
+ Have you ever interacted with any Delivery Manager ?   (Yes/No) no
+How often do you interact with your TL in NeoSOFT ?    (Daily/ Weekly/ Bi Weekly / As and when need arise/ Never   
+Give Ratings for floowing pointer will disscuss during call indetail if required (1 is for Poor - 5 is for Exelent)
+
+1.  Interaction with TL/DM        
+2. Support / Guidance from TL/DMs        
+3. Support from HR department         
+4. Support from System Admin Team        
+5. Support from Sales/ CSE
+
+-- Any pending grievances ? (Please give details )"
+"
+
+Three good things  you would like to highlight about NeoSOFT / MSDOTNET Department
+
+Any feedback/ suggestion to TL / DMs ?
+
+Any feedback/suggestion to organization ?"
